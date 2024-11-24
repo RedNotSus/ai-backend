@@ -2,10 +2,12 @@ import express from "express";
 import chalk from "chalk";
 import cors from "cors";
 import paper from "./routes/whatbeatspaper.js";
+import dotenv from "dotenv";
+dotenv.config();
 
 const app = express();
 
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(express.json());
 

@@ -131,4 +131,37 @@ router.post("/", async (req, res) => {
   }
 });
 
+// changes the result from true to false and vice versa
+router.post("/toggle", async (req, res) => {
+  const { item1, item2 } = req.query;
+  if (!item1 || !item2) {
+    return res.status(400).json({
+      error: "Please provide both item1 and item2 in the request query",
+    });
+  }
+
+  const cachedResult = await cache.findOne({
+    where: {
+      item1,
+      item2,
+    },
+  });
+
+  if (!cachedResult) {
+    return res.status(404).json({
+      error: "No cached result found for the given items.",
+    });
+  }
+
+  const updatedResult = !cachedResult.result;
+  await cachedResult.update({
+    result: updatedResult,
+  });
+
+  return res.json({
+    result: updatedResult,
+    explanation: cachedResult.explanation,
+    emoji: cachedResult.emoji,
+  });
+});
 export default router;

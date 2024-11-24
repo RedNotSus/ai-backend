@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 
 app.use("/whatbeatspaper/compare", paper);
 
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
   console.log(
     chalk.green.bold("INFO | "),
     chalk.white(`Server is running on http://localhost:${port}`)

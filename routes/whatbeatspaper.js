@@ -104,6 +104,7 @@ router.post("/", async (req, res) => {
       resultData = JSON.parse(response.data.choices[0].message.content);
     } catch (parseError) {
       console.error("Error parsing JSON response:", parseError);
+      console.error("Response data:", response.data);
       return res.status(500).json({
         error: "Invalid response format from API.",
       });

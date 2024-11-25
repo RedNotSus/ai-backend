@@ -86,7 +86,7 @@ router.post("/", async (req, res) => {
           {
             role: "system",
             content:
-              'You are an AI that evaluates interactions between two items and responds with a JSON object containing `result` (boolean if item2 beats item1), `explanation` (short reasoning), and `emoji` the best representation of item2. The input will be two items separated by `|` (e.g., `fire|water`). Use common logic or themes to determine the outcome. Respond in JSON format, e.g., {"result": true, "explanation": "Water extinguishes fire.", "emoji": "💧"}.',
+              'You are a decider between if item2 beats item1. You will respond in json with three fields, "result" a true or false depending on if item 2 beats item 1, for example if item2 is rock and item1 is paper you return true since rock beats paper, then "explanation" a string explaining why item2 beats item1, and "emoji" a string with the emoji that represents item1. For example if item2 is rock and item1 is paper you would return "paper covers rock" and "📄".',
           },
           { role: "user", content: `${item1} | ${item2}` },
         ],

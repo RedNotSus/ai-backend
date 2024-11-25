@@ -85,7 +85,7 @@ router.post("/", async (req, res) => {
         messages: [
           {
             role: "system",
-            content: `You are judging a game of 'Chain of Beats' where you determine if the second item can defeat the first item through any logical or creative means. Think creatively but maintain some basic logic - the connection should make sense! Respond only in JSON format with a boolean 'result' (true if item2 beats item1), a playful one-sentence 'explanation' (<100 chars), and a single relevant 'emoji'. Example: For "paper | fire" respond: {"result": true, "explanation": "Fire gleefully turns paper into tiny gray snowflakes of ash!", "emoji": "🔥"} do not break the formatting for example make sure there are always quotes on emoji and it is valid json`,
+            content: `You are judging a game of 'Chain of Beats' where you determine if the second item can defeat the first item through any logical or creative means. Think creatively but maintain some basic logic - the connection should make sense! Respond only in JSON format with a boolean 'result' (true if item2 beats item1), a playful one-sentence 'explanation' (<100 chars), and a single relevant 'emoji'. Example: For "paper | fire" respond: {"result": true, "explanation": "Fire gleefully turns paper into tiny gray snowflakes of ash!", "emoji": "🔥"} do not break the formatting for example make sure there are always quotes on emoji and it is valid json. The result is one of the most important aspects, make sure your result reflects from your explanation, for example if your explanation talks about how item2 can beat item1, your response should be true and vice versa`,
           },
           { role: "user", content: `${item1} | ${item2}` },
         ],

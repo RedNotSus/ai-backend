@@ -1,16 +1,1395 @@
 [
   {
-    "song": "Beautiful Morning",
-    "artist": "Mike Beating",
-    "url": "https://r2.ch3n.cc/songs/Beautiful%20Morning.mp3",
-    "cover": "https://r2.ch3n.cc/songs/Beautiful%20Morning.png",
-    "duration": 10
+    "song": "3_04am",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 166,
+    "cover": "https://r2.ch3n.cc/songs/3_04am.png",
+    "url": "https://r2.ch3n.cc/songs/3_04am.mp3"
   },
   {
-    "song": "Beautiful Morning 2",
-    "artist": "Mike Beating",
-    "url": "https://r2.ch3n.cc/songs/Beautiful%20Morning.mp3",
+    "song": "A Game of Catch",
+    "artist": "Sweetboikyle/soave lofi",
+    "duration": 85,
+    "cover": "https://r2.ch3n.cc/songs/A%20Game%20of%20Catch.png",
+    "url": "https://r2.ch3n.cc/songs/A%20Game%20of%20Catch.mp3"
+  },
+  {
+    "song": "abcdefu",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 132,
+    "cover": "https://r2.ch3n.cc/songs/abcdefu.png",
+    "url": "https://r2.ch3n.cc/songs/abcdefu.mp3"
+  },
+  {
+    "song": "Adventure Of A Lifetime",
+    "artist": "insomnia/soave lofi",
+    "duration": 129,
+    "cover": "https://r2.ch3n.cc/songs/Adventure%20Of%20A%20Lifetime.png",
+    "url": "https://r2.ch3n.cc/songs/Adventure%20Of%20A%20Lifetime.mp3"
+  },
+  {
+    "song": "After You've Gone",
+    "artist": "PBdR/Paxkalito/Astro Loud/soave lofi",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/After%20You%27ve%20Gone.png",
+    "url": "https://r2.ch3n.cc/songs/After%20You%27ve%20Gone.mp3"
+  },
+  {
+    "song": "Afternoon Cohiba",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 181,
+    "cover": "https://r2.ch3n.cc/songs/Afternoon%20Cohiba.png",
+    "url": "https://r2.ch3n.cc/songs/Afternoon%20Cohiba.mp3"
+  },
+  {
+    "song": "Alexandra",
+    "artist": "The French Monarch",
+    "duration": 138,
+    "cover": "https://r2.ch3n.cc/songs/Alexandra.png",
+    "url": "https://r2.ch3n.cc/songs/Alexandra.mp3"
+  },
+  {
+    "song": "Aligre",
+    "artist": "Ed Meteor/soave lofi",
+    "duration": 134,
+    "cover": "https://r2.ch3n.cc/songs/Aligre.png",
+    "url": "https://r2.ch3n.cc/songs/Aligre.mp3"
+  },
+  {
+    "song": "Along The Silk Road",
+    "artist": "Parco Molo/soave lofi",
+    "duration": 143,
+    "cover": "https://r2.ch3n.cc/songs/Along%20The%20Silk%20Road.png",
+    "url": "https://r2.ch3n.cc/songs/Along%20The%20Silk%20Road.mp3"
+  },
+  {
+    "song": "Amani",
+    "artist": "Navelpluis/soave lofi",
+    "duration": 154,
+    "cover": "https://r2.ch3n.cc/songs/Amani.png",
+    "url": "https://r2.ch3n.cc/songs/Amani.mp3"
+  },
+  {
+    "song": "Art Of Nostalgia",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Art%20Of%20Nostalgia.png",
+    "url": "https://r2.ch3n.cc/songs/Art%20Of%20Nostalgia.mp3"
+  },
+  {
+    "song": "As It Was",
+    "artist": "lavender home/Lucid Keys/soave lofi",
+    "duration": 138,
+    "cover": "https://r2.ch3n.cc/songs/As%20It%20Was.png",
+    "url": "https://r2.ch3n.cc/songs/As%20It%20Was.mp3"
+  },
+  {
+    "song": "Aurora",
+    "artist": "Maadrhino/Ezra Skys/soave lofi",
+    "duration": 132,
+    "cover": "https://r2.ch3n.cc/songs/Aurora.png",
+    "url": "https://r2.ch3n.cc/songs/Aurora.mp3"
+  },
+  {
+    "song": "Autumn Chocolat Latte",
+    "artist": "Mister Decaf/soave lofi",
+    "duration": 113,
+    "cover": "https://r2.ch3n.cc/songs/Autumn%20Chocolat%20Latte.png",
+    "url": "https://r2.ch3n.cc/songs/Autumn%20Chocolat%20Latte.mp3"
+  },
+  {
+    "song": "Axel F",
+    "artist": "lavender home/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Axel%20F.png",
+    "url": "https://r2.ch3n.cc/songs/Axel%20F.mp3"
+  },
+  {
+    "song": "Azalea",
+    "artist": "Tomborda/sky city/jf.mp3",
+    "duration": 113,
+    "cover": "https://r2.ch3n.cc/songs/Azalea.png",
+    "url": "https://r2.ch3n.cc/songs/Azalea.mp3"
+  },
+  {
+    "song": "Beautiful Morning",
+    "artist": "Mike Beating/soave lofi/Lucid Keys",
+    "duration": 142,
     "cover": "https://r2.ch3n.cc/songs/Beautiful%20Morning.png",
-    "duration": 10
+    "url": "https://r2.ch3n.cc/songs/Beautiful%20Morning.mp3"
+  },
+  {
+    "song": "Believer",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Believer.png",
+    "url": "https://r2.ch3n.cc/songs/Believer.mp3"
+  },
+  {
+    "song": "Black Coffee",
+    "artist": "PBdR/Paxkalito/soave lofi",
+    "duration": 148,
+    "cover": "https://r2.ch3n.cc/songs/Black%20Coffee.png",
+    "url": "https://r2.ch3n.cc/songs/Black%20Coffee.mp3"
+  },
+  {
+    "song": "Blinding Lights",
+    "artist": "suroboi/soave lofi/Chill Jam",
+    "duration": 147,
+    "cover": "https://r2.ch3n.cc/songs/Blinding%20Lights.png",
+    "url": "https://r2.ch3n.cc/songs/Blinding%20Lights.mp3"
+  },
+  {
+    "song": "Bossa",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 161,
+    "cover": "https://r2.ch3n.cc/songs/Bossa.png",
+    "url": "https://r2.ch3n.cc/songs/Bossa.mp3"
+  },
+  {
+    "song": "Breeze Of Change",
+    "artist": "Mike Beating/soave lofi",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Breeze%20Of%20Change.png",
+    "url": "https://r2.ch3n.cc/songs/Breeze%20Of%20Change.mp3"
+  },
+  {
+    "song": "Cantarito",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 186,
+    "cover": "https://r2.ch3n.cc/songs/Cantarito.png",
+    "url": "https://r2.ch3n.cc/songs/Cantarito.mp3"
+  },
+  {
+    "song": "Caramel Seasalt",
+    "artist": "Mg./soave lofi",
+    "duration": 96,
+    "cover": "https://r2.ch3n.cc/songs/Caramel%20Seasalt.png",
+    "url": "https://r2.ch3n.cc/songs/Caramel%20Seasalt.mp3"
+  },
+  {
+    "song": "Casa Nostra",
+    "artist": "Bmyshadow/soave lofi",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/Casa%20Nostra.png",
+    "url": "https://r2.ch3n.cc/songs/Casa%20Nostra.mp3"
+  },
+  {
+    "song": "Chablis",
+    "artist": "anlou/Paxkalito/TwoChills",
+    "duration": 142,
+    "cover": "https://r2.ch3n.cc/songs/Chablis.png",
+    "url": "https://r2.ch3n.cc/songs/Chablis.mp3"
+  },
+  {
+    "song": "Checkmate",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 167,
+    "cover": "https://r2.ch3n.cc/songs/Checkmate.png",
+    "url": "https://r2.ch3n.cc/songs/Checkmate.mp3"
+  },
+  {
+    "song": "Cheesy",
+    "artist": "sleen./MOOD boy",
+    "duration": 102,
+    "cover": "https://r2.ch3n.cc/songs/Cheesy.png",
+    "url": "https://r2.ch3n.cc/songs/Cheesy.mp3"
+  },
+  {
+    "song": "Childhood Memories",
+    "artist": "allen tales/Dave Miles/soave lofi",
+    "duration": 114,
+    "cover": "https://r2.ch3n.cc/songs/Childhood%20Memories.png",
+    "url": "https://r2.ch3n.cc/songs/Childhood%20Memories.mp3"
+  },
+  {
+    "song": "Chill Avenue",
+    "artist": "PBdR/soave lofi",
+    "duration": 139,
+    "cover": "https://r2.ch3n.cc/songs/Chill%20Avenue.png",
+    "url": "https://r2.ch3n.cc/songs/Chill%20Avenue.mp3"
+  },
+  {
+    "song": "Chill of the Dawn",
+    "artist": "Epigenesis/soave lofi",
+    "duration": 169,
+    "cover": "https://r2.ch3n.cc/songs/Chill%20of%20the%20Dawn.png",
+    "url": "https://r2.ch3n.cc/songs/Chill%20of%20the%20Dawn.mp3"
+  },
+  {
+    "song": "City Retreat",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/City%20Retreat.png",
+    "url": "https://r2.ch3n.cc/songs/City%20Retreat.mp3"
+  },
+  {
+    "song": "close to me",
+    "artist": "vlows",
+    "duration": 122,
+    "cover": "https://r2.ch3n.cc/songs/close%20to%20me.png",
+    "url": "https://r2.ch3n.cc/songs/close%20to%20me.mp3"
+  },
+  {
+    "song": "Closer",
+    "artist": "Maadrhino/Ezra Skys/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Closer.png",
+    "url": "https://r2.ch3n.cc/songs/Closer.mp3"
+  },
+  {
+    "song": "Clouds",
+    "artist": "sleen./MOOD boy/soave lofi",
+    "duration": 95,
+    "cover": "https://r2.ch3n.cc/songs/Clouds.png",
+    "url": "https://r2.ch3n.cc/songs/Clouds.mp3"
+  },
+  {
+    "song": "Cloudy Sunset",
+    "artist": "mininova",
+    "duration": 164,
+    "cover": "https://r2.ch3n.cc/songs/Cloudy%20Sunset.png",
+    "url": "https://r2.ch3n.cc/songs/Cloudy%20Sunset.mp3"
+  },
+  {
+    "song": "Cold Brew Float",
+    "artist": "Mister Decaf/Tolan/soave lofi",
+    "duration": 114,
+    "cover": "https://r2.ch3n.cc/songs/Cold%20Brew%20Float.png",
+    "url": "https://r2.ch3n.cc/songs/Cold%20Brew%20Float.mp3"
+  },
+  {
+    "song": "Cool Kids",
+    "artist": "lavender home/soave lofi",
+    "duration": 124,
+    "cover": "https://r2.ch3n.cc/songs/Cool%20Kids.png",
+    "url": "https://r2.ch3n.cc/songs/Cool%20Kids.mp3"
+  },
+  {
+    "song": "Cozmic",
+    "artist": "Lunivo/soave lofi",
+    "duration": 167,
+    "cover": "https://r2.ch3n.cc/songs/Cozmic.png",
+    "url": "https://r2.ch3n.cc/songs/Cozmic.mp3"
+  },
+  {
+    "song": "Crazy - Instrumental Version",
+    "artist": "suroboi/Chill Jam/soave lofi",
+    "duration": 175,
+    "cover": "https://r2.ch3n.cc/songs/Crazy%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/Crazy%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Croz Hermitage",
+    "artist": "anlou/Paxkalito/soave lofi",
+    "duration": 137,
+    "cover": "https://r2.ch3n.cc/songs/Croz%20Hermitage.png",
+    "url": "https://r2.ch3n.cc/songs/Croz%20Hermitage.mp3"
+  },
+  {
+    "song": "crrrunchy",
+    "artist": "SPUDB/soave lofi",
+    "duration": 104,
+    "cover": "https://r2.ch3n.cc/songs/crrrunchy.png",
+    "url": "https://r2.ch3n.cc/songs/crrrunchy.mp3"
+  },
+  {
+    "song": "crunchy",
+    "artist": "SPUDB/soave lofi",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/crunchy.png",
+    "url": "https://r2.ch3n.cc/songs/crunchy.mp3"
+  },
+  {
+    "song": "Cry Me A River",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 150,
+    "cover": "https://r2.ch3n.cc/songs/Cry%20Me%20A%20River.png",
+    "url": "https://r2.ch3n.cc/songs/Cry%20Me%20A%20River.mp3"
+  },
+  {
+    "song": "Cr\u00e8me Br\u00fbl\u00e9e",
+    "artist": "soulful beats/soave lofi",
+    "duration": 139,
+    "cover": "https://r2.ch3n.cc/songs/Cr%C3%A8me%20Br%C3%BBl%C3%A9e.png",
+    "url": "https://r2.ch3n.cc/songs/Cr%C3%A8me%20Br%C3%BBl%C3%A9e.mp3"
+  },
+  {
+    "song": "Cuba",
+    "artist": "aprilor/TwoChills/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Cuba.png",
+    "url": "https://r2.ch3n.cc/songs/Cuba.mp3"
+  },
+  {
+    "song": "Daarwin",
+    "artist": "Lofries/Tolan/soave lofi",
+    "duration": 122,
+    "cover": "https://r2.ch3n.cc/songs/Daarwin.png",
+    "url": "https://r2.ch3n.cc/songs/Daarwin.mp3"
+  },
+  {
+    "song": "Dancing In the Moonlight - Instrumental Version",
+    "artist": "suroboi/Chill Jam/soave lofi",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/Dancing%20In%20the%20Moonlight%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/Dancing%20In%20the%20Moonlight%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Dancing Queen",
+    "artist": "lavender home/soave lofi",
+    "duration": 136,
+    "cover": "https://r2.ch3n.cc/songs/Dancing%20Queen.png",
+    "url": "https://r2.ch3n.cc/songs/Dancing%20Queen.mp3"
+  },
+  {
+    "song": "Danse Caf\u00e9",
+    "artist": "Juju BB/soave lofi",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/Danse%20Caf%C3%A9.png",
+    "url": "https://r2.ch3n.cc/songs/Danse%20Caf%C3%A9.mp3"
+  },
+  {
+    "song": "Delhii",
+    "artist": "Lofries",
+    "duration": 102,
+    "cover": "https://r2.ch3n.cc/songs/Delhii.png",
+    "url": "https://r2.ch3n.cc/songs/Delhii.mp3"
+  },
+  {
+    "song": "Don't You Worry Child",
+    "artist": "lavender home/soave lofi",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Don%27t%20You%20Worry%20Child.png",
+    "url": "https://r2.ch3n.cc/songs/Don%27t%20You%20Worry%20Child.mp3"
+  },
+  {
+    "song": "Drifting",
+    "artist": "Psylone/soave lofi",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/Drifting.png",
+    "url": "https://r2.ch3n.cc/songs/Drifting.mp3"
+  },
+  {
+    "song": "Driving Down The Boulevard",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 154,
+    "cover": "https://r2.ch3n.cc/songs/Driving%20Down%20The%20Boulevard.png",
+    "url": "https://r2.ch3n.cc/songs/Driving%20Down%20The%20Boulevard.mp3"
+  },
+  {
+    "song": "Easy Morning",
+    "artist": "Juju BB/soave lofi",
+    "duration": 113,
+    "cover": "https://r2.ch3n.cc/songs/Easy%20Morning.png",
+    "url": "https://r2.ch3n.cc/songs/Easy%20Morning.mp3"
+  },
+  {
+    "song": "Enemy",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Enemy.png",
+    "url": "https://r2.ch3n.cc/songs/Enemy.mp3"
+  },
+  {
+    "song": "Everlast",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 114,
+    "cover": "https://r2.ch3n.cc/songs/Everlast.png",
+    "url": "https://r2.ch3n.cc/songs/Everlast.mp3"
+  },
+  {
+    "song": "falling in love",
+    "artist": "aprilor/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/falling%20in%20love.png",
+    "url": "https://r2.ch3n.cc/songs/falling%20in%20love.mp3"
+  },
+  {
+    "song": "Fast Car",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 164,
+    "cover": "https://r2.ch3n.cc/songs/Fast%20Car.png",
+    "url": "https://r2.ch3n.cc/songs/Fast%20Car.mp3"
+  },
+  {
+    "song": "Febrew",
+    "artist": "gainsome/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Febrew.png",
+    "url": "https://r2.ch3n.cc/songs/Febrew.mp3"
+  },
+  {
+    "song": "Flowers",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 119,
+    "cover": "https://r2.ch3n.cc/songs/Flowers.png",
+    "url": "https://r2.ch3n.cc/songs/Flowers.mp3"
+  },
+  {
+    "song": "Foggy Road",
+    "artist": "anlou/soave lofi",
+    "duration": 139,
+    "cover": "https://r2.ch3n.cc/songs/Foggy%20Road.png",
+    "url": "https://r2.ch3n.cc/songs/Foggy%20Road.mp3"
+  },
+  {
+    "song": "Forget Me",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 151,
+    "cover": "https://r2.ch3n.cc/songs/Forget%20Me.png",
+    "url": "https://r2.ch3n.cc/songs/Forget%20Me.mp3"
+  },
+  {
+    "song": "Gentle Tide",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/Gentle%20Tide.png",
+    "url": "https://r2.ch3n.cc/songs/Gentle%20Tide.mp3"
+  },
+  {
+    "song": "Ghost",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/Ghost.png",
+    "url": "https://r2.ch3n.cc/songs/Ghost.mp3"
+  },
+  {
+    "song": "Gold",
+    "artist": "Maadrhino/Ezra Skys/soave lofi",
+    "duration": 152,
+    "cover": "https://r2.ch3n.cc/songs/Gold.png",
+    "url": "https://r2.ch3n.cc/songs/Gold.mp3"
+  },
+  {
+    "song": "Harbour Hues",
+    "artist": "Moon Ghetto/Comodo/soave lofi",
+    "duration": 110,
+    "cover": "https://r2.ch3n.cc/songs/Harbour%20Hues.png",
+    "url": "https://r2.ch3n.cc/songs/Harbour%20Hues.mp3"
+  },
+  {
+    "song": "Heat Waves",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/Heat%20Waves.png",
+    "url": "https://r2.ch3n.cc/songs/Heat%20Waves.mp3"
+  },
+  {
+    "song": "home by eight",
+    "artist": "aprilor/soave lofi",
+    "duration": 109,
+    "cover": "https://r2.ch3n.cc/songs/home%20by%20eight.png",
+    "url": "https://r2.ch3n.cc/songs/home%20by%20eight.mp3"
+  },
+  {
+    "song": "Honey Mint",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 169,
+    "cover": "https://r2.ch3n.cc/songs/Honey%20Mint.png",
+    "url": "https://r2.ch3n.cc/songs/Honey%20Mint.mp3"
+  },
+  {
+    "song": "Hope",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 147,
+    "cover": "https://r2.ch3n.cc/songs/Hope.png",
+    "url": "https://r2.ch3n.cc/songs/Hope.mp3"
+  },
+  {
+    "song": "Hot Brew Mocha",
+    "artist": "Mister Decaf/soave lofi",
+    "duration": 102,
+    "cover": "https://r2.ch3n.cc/songs/Hot%20Brew%20Mocha.png",
+    "url": "https://r2.ch3n.cc/songs/Hot%20Brew%20Mocha.mp3"
+  },
+  {
+    "song": "Hushwave",
+    "artist": "Lunivo/soave lofi",
+    "duration": 181,
+    "cover": "https://r2.ch3n.cc/songs/Hushwave.png",
+    "url": "https://r2.ch3n.cc/songs/Hushwave.mp3"
+  },
+  {
+    "song": "I Ain't Worried",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 169,
+    "cover": "https://r2.ch3n.cc/songs/I%20Ain%27t%20Worried.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Ain%27t%20Worried.mp3"
+  },
+  {
+    "song": "I Don't Care",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 135,
+    "cover": "https://r2.ch3n.cc/songs/I%20Don%27t%20Care.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Don%27t%20Care.mp3"
+  },
+  {
+    "song": "I Got It",
+    "artist": "Juju BB/soave lofi",
+    "duration": 122,
+    "cover": "https://r2.ch3n.cc/songs/I%20Got%20It.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Got%20It.mp3"
+  },
+  {
+    "song": "I Got U",
+    "artist": "Mg./Moon Ghetto",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/I%20Got%20U.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Got%20U.mp3"
+  },
+  {
+    "song": "I Like Me Better",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 146,
+    "cover": "https://r2.ch3n.cc/songs/I%20Like%20Me%20Better.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Like%20Me%20Better.mp3"
+  },
+  {
+    "song": "I Like You (A Happier Song)",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 118,
+    "cover": "https://r2.ch3n.cc/songs/I%20Like%20You%20%28A%20Happier%20Song%29.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Like%20You%20%28A%20Happier%20Song%29.mp3"
+  },
+  {
+    "song": "I Need A Dollar",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/I%20Need%20A%20Dollar.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Need%20A%20Dollar.mp3"
+  },
+  {
+    "song": "I Still Haven't Found What I'm Looking For - Instrumental Version",
+    "artist": "suroboi/Chill Jam/soave lofi",
+    "duration": 172,
+    "cover": "https://r2.ch3n.cc/songs/I%20Still%20Haven%27t%20Found%20What%20I%27m%20Looking%20For%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/I%20Still%20Haven%27t%20Found%20What%20I%27m%20Looking%20For%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Iced Mocha Pops",
+    "artist": "Mister Decaf/Tolan/soave lofi",
+    "duration": 124,
+    "cover": "https://r2.ch3n.cc/songs/Iced%20Mocha%20Pops.png",
+    "url": "https://r2.ch3n.cc/songs/Iced%20Mocha%20Pops.mp3"
+  },
+  {
+    "song": "IDK You Yet",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 119,
+    "cover": "https://r2.ch3n.cc/songs/IDK%20You%20Yet.png",
+    "url": "https://r2.ch3n.cc/songs/IDK%20You%20Yet.mp3"
+  },
+  {
+    "song": "In Between",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 160,
+    "cover": "https://r2.ch3n.cc/songs/In%20Between.png",
+    "url": "https://r2.ch3n.cc/songs/In%20Between.mp3"
+  },
+  {
+    "song": "In The Flo",
+    "artist": "insomnia/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/In%20The%20Flo.png",
+    "url": "https://r2.ch3n.cc/songs/In%20The%20Flo.mp3"
+  },
+  {
+    "song": "in time",
+    "artist": "blvque/soave lofi",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/in%20time.png",
+    "url": "https://r2.ch3n.cc/songs/in%20time.mp3"
+  },
+  {
+    "song": "Iris - Instrumental Version",
+    "artist": "suroboi/soave lofi/Chill Jam",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/Iris%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/Iris%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Irouleguy",
+    "artist": "anlou/Paxkalito/soave lofi",
+    "duration": 141,
+    "cover": "https://r2.ch3n.cc/songs/Irouleguy.png",
+    "url": "https://r2.ch3n.cc/songs/Irouleguy.mp3"
+  },
+  {
+    "song": "Jazz On The Moon",
+    "artist": "The Floating Whale/soave lofi",
+    "duration": 116,
+    "cover": "https://r2.ch3n.cc/songs/Jazz%20On%20The%20Moon.png",
+    "url": "https://r2.ch3n.cc/songs/Jazz%20On%20The%20Moon.mp3"
+  },
+  {
+    "song": "Jazzy Wave",
+    "artist": "yourneighborsclassicbeats",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Jazzy%20Wave.png",
+    "url": "https://r2.ch3n.cc/songs/Jazzy%20Wave.mp3"
+  },
+  {
+    "song": "Jo\u00e3o Pessoa",
+    "artist": "Bmyshadow/plutones/soave lofi",
+    "duration": 114,
+    "cover": "https://r2.ch3n.cc/songs/Jo%C3%A3o%20Pessoa.png",
+    "url": "https://r2.ch3n.cc/songs/Jo%C3%A3o%20Pessoa.mp3"
+  },
+  {
+    "song": "Just the Way You Are",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 168,
+    "cover": "https://r2.ch3n.cc/songs/Just%20the%20Way%20You%20Are.png",
+    "url": "https://r2.ch3n.cc/songs/Just%20the%20Way%20You%20Are.mp3"
+  },
+  {
+    "song": "Kernkraft 400",
+    "artist": "lavender home/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Kernkraft%20400.png",
+    "url": "https://r2.ch3n.cc/songs/Kernkraft%20400.mp3"
+  },
+  {
+    "song": "Kota Amboon",
+    "artist": "Lofries/Erwin Do/Tolan",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Kota%20Amboon.png",
+    "url": "https://r2.ch3n.cc/songs/Kota%20Amboon.mp3"
+  },
+  {
+    "song": "lapras",
+    "artist": "Tomborda/sky city",
+    "duration": 117,
+    "cover": "https://r2.ch3n.cc/songs/lapras.png",
+    "url": "https://r2.ch3n.cc/songs/lapras.mp3"
+  },
+  {
+    "song": "Last Night",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/Last%20Night.png",
+    "url": "https://r2.ch3n.cc/songs/Last%20Night.mp3"
+  },
+  {
+    "song": "Late Night Thoughts",
+    "artist": "allen tales/Dave Miles",
+    "duration": 136,
+    "cover": "https://r2.ch3n.cc/songs/Late%20Night%20Thoughts.png",
+    "url": "https://r2.ch3n.cc/songs/Late%20Night%20Thoughts.mp3"
+  },
+  {
+    "song": "Let Her Go",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 160,
+    "cover": "https://r2.ch3n.cc/songs/Let%20Her%20Go.png",
+    "url": "https://r2.ch3n.cc/songs/Let%20Her%20Go.mp3"
+  },
+  {
+    "song": "Little Talks",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 143,
+    "cover": "https://r2.ch3n.cc/songs/Little%20Talks.png",
+    "url": "https://r2.ch3n.cc/songs/Little%20Talks.mp3"
+  },
+  {
+    "song": "Lonewalking",
+    "artist": "mininova/soave lofi",
+    "duration": 160,
+    "cover": "https://r2.ch3n.cc/songs/Lonewalking.png",
+    "url": "https://r2.ch3n.cc/songs/Lonewalking.mp3"
+  },
+  {
+    "song": "Lost For Words",
+    "artist": "HUSBAND/soave lofi",
+    "duration": 124,
+    "cover": "https://r2.ch3n.cc/songs/Lost%20For%20Words.png",
+    "url": "https://r2.ch3n.cc/songs/Lost%20For%20Words.mp3"
+  },
+  {
+    "song": "Lost In Tampere",
+    "artist": "Lucid Keys/soave lofi",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/Lost%20In%20Tampere.png",
+    "url": "https://r2.ch3n.cc/songs/Lost%20In%20Tampere.mp3"
+  },
+  {
+    "song": "Lovely Day",
+    "artist": "sleen./MOOD boy/soave lofi",
+    "duration": 82,
+    "cover": "https://r2.ch3n.cc/songs/Lovely%20Day.png",
+    "url": "https://r2.ch3n.cc/songs/Lovely%20Day.mp3"
+  },
+  {
+    "song": "Low Breeze",
+    "artist": "Kewlie/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Low%20Breeze.png",
+    "url": "https://r2.ch3n.cc/songs/Low%20Breeze.mp3"
+  },
+  {
+    "song": "Magnetic",
+    "artist": "lavender home/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Magnetic.png",
+    "url": "https://r2.ch3n.cc/songs/Magnetic.mp3"
+  },
+  {
+    "song": "Mayerhofenn",
+    "artist": "Lofries/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Mayerhofenn.png",
+    "url": "https://r2.ch3n.cc/songs/Mayerhofenn.mp3"
+  },
+  {
+    "song": "Mellow Groove",
+    "artist": "anlou/soave lofi",
+    "duration": 135,
+    "cover": "https://r2.ch3n.cc/songs/Mellow%20Groove.png",
+    "url": "https://r2.ch3n.cc/songs/Mellow%20Groove.mp3"
+  },
+  {
+    "song": "Mellow Moonlight",
+    "artist": "Kewlie/soave lofi",
+    "duration": 143,
+    "cover": "https://r2.ch3n.cc/songs/Mellow%20Moonlight.png",
+    "url": "https://r2.ch3n.cc/songs/Mellow%20Moonlight.mp3"
+  },
+  {
+    "song": "Memories",
+    "artist": "Pacific",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Memories.png",
+    "url": "https://r2.ch3n.cc/songs/Memories.mp3"
+  },
+  {
+    "song": "Mercurey",
+    "artist": "anlou/Paxkalito/TwoChills",
+    "duration": 132,
+    "cover": "https://r2.ch3n.cc/songs/Mercurey.png",
+    "url": "https://r2.ch3n.cc/songs/Mercurey.mp3"
+  },
+  {
+    "song": "Mermaid",
+    "artist": "Lullaby/soave lofi",
+    "duration": 114,
+    "cover": "https://r2.ch3n.cc/songs/Mermaid.png",
+    "url": "https://r2.ch3n.cc/songs/Mermaid.mp3"
+  },
+  {
+    "song": "MIDDLE OF THE NIGHT",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 140,
+    "cover": "https://r2.ch3n.cc/songs/MIDDLE%20OF%20THE%20NIGHT.png",
+    "url": "https://r2.ch3n.cc/songs/MIDDLE%20OF%20THE%20NIGHT.mp3"
+  },
+  {
+    "song": "Midnight Ginger Beans",
+    "artist": "Mister Decaf/soave lofi",
+    "duration": 105,
+    "cover": "https://r2.ch3n.cc/songs/Midnight%20Ginger%20Beans.png",
+    "url": "https://r2.ch3n.cc/songs/Midnight%20Ginger%20Beans.mp3"
+  },
+  {
+    "song": "Milkshake",
+    "artist": "sleen./MOOD boy/soave lofi",
+    "duration": 86,
+    "cover": "https://r2.ch3n.cc/songs/Milkshake.png",
+    "url": "https://r2.ch3n.cc/songs/Milkshake.mp3"
+  },
+  {
+    "song": "Moirai",
+    "artist": "gainsome/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/Moirai.png",
+    "url": "https://r2.ch3n.cc/songs/Moirai.mp3"
+  },
+  {
+    "song": "Moment Of Serenity",
+    "artist": "allen tales/Dave Miles/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Moment%20Of%20Serenity.png",
+    "url": "https://r2.ch3n.cc/songs/Moment%20Of%20Serenity.mp3"
+  },
+  {
+    "song": "Mont Blanc",
+    "artist": "PBdR/Paxkalito/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Mont%20Blanc.png",
+    "url": "https://r2.ch3n.cc/songs/Mont%20Blanc.mp3"
+  },
+  {
+    "song": "Moonlighter",
+    "artist": "Lunivo/soave lofi",
+    "duration": 160,
+    "cover": "https://r2.ch3n.cc/songs/Moonlighter.png",
+    "url": "https://r2.ch3n.cc/songs/Moonlighter.mp3"
+  },
+  {
+    "song": "Morning Dewdrops",
+    "artist": "PBdR/soave lofi",
+    "duration": 122,
+    "cover": "https://r2.ch3n.cc/songs/Morning%20Dewdrops.png",
+    "url": "https://r2.ch3n.cc/songs/Morning%20Dewdrops.mp3"
+  },
+  {
+    "song": "Mr. Brightside",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Mr.%20Brightside.png",
+    "url": "https://r2.ch3n.cc/songs/Mr.%20Brightside.mp3"
+  },
+  {
+    "song": "Music For A Sushi Restaurant",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/Music%20For%20A%20Sushi%20Restaurant.png",
+    "url": "https://r2.ch3n.cc/songs/Music%20For%20A%20Sushi%20Restaurant.mp3"
+  },
+  {
+    "song": "My Compass",
+    "artist": "gainsome/soave lofi",
+    "duration": 136,
+    "cover": "https://r2.ch3n.cc/songs/My%20Compass.png",
+    "url": "https://r2.ch3n.cc/songs/My%20Compass.mp3"
+  },
+  {
+    "song": "New Horizons",
+    "artist": "mininova/soave lofi",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/New%20Horizons.png",
+    "url": "https://r2.ch3n.cc/songs/New%20Horizons.mp3"
+  },
+  {
+    "song": "Night On A Pier",
+    "artist": "allen tales/Dave Miles/soave lofi",
+    "duration": 138,
+    "cover": "https://r2.ch3n.cc/songs/Night%20On%20A%20Pier.png",
+    "url": "https://r2.ch3n.cc/songs/Night%20On%20A%20Pier.mp3"
+  },
+  {
+    "song": "No Dusk After Rain",
+    "artist": "TwoChills/sky city/soave lofi",
+    "duration": 96,
+    "cover": "https://r2.ch3n.cc/songs/No%20Dusk%20After%20Rain.png",
+    "url": "https://r2.ch3n.cc/songs/No%20Dusk%20After%20Rain.mp3"
+  },
+  {
+    "song": "Noir City",
+    "artist": "Johny Luv/soave lofi",
+    "duration": 144,
+    "cover": "https://r2.ch3n.cc/songs/Noir%20City.png",
+    "url": "https://r2.ch3n.cc/songs/Noir%20City.mp3"
+  },
+  {
+    "song": "Nova Sembla",
+    "artist": "The Floating Whale/soave lofi",
+    "duration": 115,
+    "cover": "https://r2.ch3n.cc/songs/Nova%20Sembla.png",
+    "url": "https://r2.ch3n.cc/songs/Nova%20Sembla.mp3"
+  },
+  {
+    "song": "Oasis",
+    "artist": "Twotrees/TwoChills/soave lofi",
+    "duration": 145,
+    "cover": "https://r2.ch3n.cc/songs/Oasis.png",
+    "url": "https://r2.ch3n.cc/songs/Oasis.mp3"
+  },
+  {
+    "song": "Old House",
+    "artist": "bedroom lofi/soave lofi",
+    "duration": 138,
+    "cover": "https://r2.ch3n.cc/songs/Old%20House.png",
+    "url": "https://r2.ch3n.cc/songs/Old%20House.mp3"
+  },
+  {
+    "song": "One Last Night",
+    "artist": "Juju BB/soave lofi",
+    "duration": 153,
+    "cover": "https://r2.ch3n.cc/songs/One%20Last%20Night.png",
+    "url": "https://r2.ch3n.cc/songs/One%20Last%20Night.mp3"
+  },
+  {
+    "song": "Ordinary People - Instrumental Version",
+    "artist": "suroboi/Chill Jam/soave lofi",
+    "duration": 144,
+    "cover": "https://r2.ch3n.cc/songs/Ordinary%20People%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/Ordinary%20People%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Palm Beach",
+    "artist": "Twotrees/TwoChills/soave lofi",
+    "duration": 115,
+    "cover": "https://r2.ch3n.cc/songs/Palm%20Beach.png",
+    "url": "https://r2.ch3n.cc/songs/Palm%20Beach.mp3"
+  },
+  {
+    "song": "Pastel Skies",
+    "artist": "PBdR/soave lofi",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Pastel%20Skies.png",
+    "url": "https://r2.ch3n.cc/songs/Pastel%20Skies.mp3"
+  },
+  {
+    "song": "Payphone",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 147,
+    "cover": "https://r2.ch3n.cc/songs/Payphone.png",
+    "url": "https://r2.ch3n.cc/songs/Payphone.mp3"
+  },
+  {
+    "song": "PEACEFUL SOLITUDE",
+    "artist": "koalev/Slowheal/soave lofi",
+    "duration": 158,
+    "cover": "https://r2.ch3n.cc/songs/PEACEFUL%20SOLITUDE.png",
+    "url": "https://r2.ch3n.cc/songs/PEACEFUL%20SOLITUDE.mp3"
+  },
+  {
+    "song": "Peaches",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 129,
+    "cover": "https://r2.ch3n.cc/songs/Peaches.png",
+    "url": "https://r2.ch3n.cc/songs/Peaches.mp3"
+  },
+  {
+    "song": "Please Stay",
+    "artist": "allen tales/plutones/soave lofi",
+    "duration": 123,
+    "cover": "https://r2.ch3n.cc/songs/Please%20Stay.png",
+    "url": "https://r2.ch3n.cc/songs/Please%20Stay.mp3"
+  },
+  {
+    "song": "Quiver",
+    "artist": "Johny Luv",
+    "duration": 149,
+    "cover": "https://r2.ch3n.cc/songs/Quiver.png",
+    "url": "https://r2.ch3n.cc/songs/Quiver.mp3"
+  },
+  {
+    "song": "Quote My Emotion",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/Quote%20My%20Emotion.png",
+    "url": "https://r2.ch3n.cc/songs/Quote%20My%20Emotion.mp3"
+  },
+  {
+    "song": "Rainfall",
+    "artist": "PBdR/soave lofi",
+    "duration": 113,
+    "cover": "https://r2.ch3n.cc/songs/Rainfall.png",
+    "url": "https://r2.ch3n.cc/songs/Rainfall.mp3"
+  },
+  {
+    "song": "Rescue Me",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 147,
+    "cover": "https://r2.ch3n.cc/songs/Rescue%20Me.png",
+    "url": "https://r2.ch3n.cc/songs/Rescue%20Me.mp3"
+  },
+  {
+    "song": "Ride The Wave",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Ride%20The%20Wave.png",
+    "url": "https://r2.ch3n.cc/songs/Ride%20The%20Wave.mp3"
+  },
+  {
+    "song": "Rising Moon",
+    "artist": "PBdR/Paxkalito/soave lofi",
+    "duration": 100,
+    "cover": "https://r2.ch3n.cc/songs/Rising%20Moon.png",
+    "url": "https://r2.ch3n.cc/songs/Rising%20Moon.mp3"
+  },
+  {
+    "song": "Runaway",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 130,
+    "cover": "https://r2.ch3n.cc/songs/Runaway.png",
+    "url": "https://r2.ch3n.cc/songs/Runaway.mp3"
+  },
+  {
+    "song": "SAD!",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 113,
+    "cover": "https://r2.ch3n.cc/songs/SAD%21.png",
+    "url": "https://r2.ch3n.cc/songs/SAD%21.mp3"
+  },
+  {
+    "song": "SAME PLACE DIFFERENT FEELING",
+    "artist": "koalev/Slowheal/soave lofi",
+    "duration": 121,
+    "cover": "https://r2.ch3n.cc/songs/SAME%20PLACE%20DIFFERENT%20FEELING.png",
+    "url": "https://r2.ch3n.cc/songs/SAME%20PLACE%20DIFFERENT%20FEELING.mp3"
+  },
+  {
+    "song": "Saxy Time",
+    "artist": "The French Monarch",
+    "duration": 169,
+    "cover": "https://r2.ch3n.cc/songs/Saxy%20Time.png",
+    "url": "https://r2.ch3n.cc/songs/Saxy%20Time.mp3"
+  },
+  {
+    "song": "Sea View",
+    "artist": "Parogno/soave lofi",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Sea%20View.png",
+    "url": "https://r2.ch3n.cc/songs/Sea%20View.mp3"
+  },
+  {
+    "song": "Serenade",
+    "artist": "PBdR/soave lofi",
+    "duration": 134,
+    "cover": "https://r2.ch3n.cc/songs/Serenade.png",
+    "url": "https://r2.ch3n.cc/songs/Serenade.mp3"
+  },
+  {
+    "song": "Serenity",
+    "artist": "gainsome",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Serenity.png",
+    "url": "https://r2.ch3n.cc/songs/Serenity.mp3"
+  },
+  {
+    "song": "Sherry",
+    "artist": "Johny Luv/soave lofi",
+    "duration": 112,
+    "cover": "https://r2.ch3n.cc/songs/Sherry.png",
+    "url": "https://r2.ch3n.cc/songs/Sherry.mp3"
+  },
+  {
+    "song": "shore glow",
+    "artist": "Jeff Kaale/soave lofi",
+    "duration": 192,
+    "cover": "https://r2.ch3n.cc/songs/shore%20glow.png",
+    "url": "https://r2.ch3n.cc/songs/shore%20glow.mp3"
+  },
+  {
+    "song": "Sicilia Mon Amour",
+    "artist": "Juju BB/Lucid Keys/soave lofi",
+    "duration": 116,
+    "cover": "https://r2.ch3n.cc/songs/Sicilia%20Mon%20Amour.png",
+    "url": "https://r2.ch3n.cc/songs/Sicilia%20Mon%20Amour.mp3"
+  },
+  {
+    "song": "Sizzle",
+    "artist": "HUSBAND/soave lofi",
+    "duration": 75,
+    "cover": "https://r2.ch3n.cc/songs/Sizzle.png",
+    "url": "https://r2.ch3n.cc/songs/Sizzle.mp3"
+  },
+  {
+    "song": "sizzling evening",
+    "artist": "SPUDB/soave lofi",
+    "duration": 111,
+    "cover": "https://r2.ch3n.cc/songs/sizzling%20evening.png",
+    "url": "https://r2.ch3n.cc/songs/sizzling%20evening.mp3"
+  },
+  {
+    "song": "Sk8er Boi",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Sk8er%20Boi.png",
+    "url": "https://r2.ch3n.cc/songs/Sk8er%20Boi.mp3"
+  },
+  {
+    "song": "Snap",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 138,
+    "cover": "https://r2.ch3n.cc/songs/Snap.png",
+    "url": "https://r2.ch3n.cc/songs/Snap.mp3"
+  },
+  {
+    "song": "softer",
+    "artist": "aprilor/soave lofi",
+    "duration": 156,
+    "cover": "https://r2.ch3n.cc/songs/softer.png",
+    "url": "https://r2.ch3n.cc/songs/softer.mp3"
+  },
+  {
+    "song": "Solitude",
+    "artist": "Lunivo/soave lofi",
+    "duration": 163,
+    "cover": "https://r2.ch3n.cc/songs/Solitude.png",
+    "url": "https://r2.ch3n.cc/songs/Solitude.mp3"
+  },
+  {
+    "song": "Someone",
+    "artist": "plutones/soave lofi",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Someone.png",
+    "url": "https://r2.ch3n.cc/songs/Someone.mp3"
+  },
+  {
+    "song": "Soulful Connection",
+    "artist": "Tolan/Taloha Beats/soave lofi",
+    "duration": 157,
+    "cover": "https://r2.ch3n.cc/songs/Soulful%20Connection.png",
+    "url": "https://r2.ch3n.cc/songs/Soulful%20Connection.mp3"
+  },
+  {
+    "song": "Sourness",
+    "artist": "HUSBAND/soave lofi",
+    "duration": 143,
+    "cover": "https://r2.ch3n.cc/songs/Sourness.png",
+    "url": "https://r2.ch3n.cc/songs/Sourness.mp3"
+  },
+  {
+    "song": "Starboy",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 119,
+    "cover": "https://r2.ch3n.cc/songs/Starboy.png",
+    "url": "https://r2.ch3n.cc/songs/Starboy.mp3"
+  },
+  {
+    "song": "Stay Home",
+    "artist": "snowflake echo/Mike Beating/soave lofi",
+    "duration": 123,
+    "cover": "https://r2.ch3n.cc/songs/Stay%20Home.png",
+    "url": "https://r2.ch3n.cc/songs/Stay%20Home.mp3"
+  },
+  {
+    "song": "Stay With Me",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 146,
+    "cover": "https://r2.ch3n.cc/songs/Stay%20With%20Me.png",
+    "url": "https://r2.ch3n.cc/songs/Stay%20With%20Me.mp3"
+  },
+  {
+    "song": "Stick Season",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 134,
+    "cover": "https://r2.ch3n.cc/songs/Stick%20Season.png",
+    "url": "https://r2.ch3n.cc/songs/Stick%20Season.mp3"
+  },
+  {
+    "song": "Stolen Dance",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 144,
+    "cover": "https://r2.ch3n.cc/songs/Stolen%20Dance.png",
+    "url": "https://r2.ch3n.cc/songs/Stolen%20Dance.mp3"
+  },
+  {
+    "song": "Strangers",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 129,
+    "cover": "https://r2.ch3n.cc/songs/Strangers.png",
+    "url": "https://r2.ch3n.cc/songs/Strangers.mp3"
+  },
+  {
+    "song": "Strawberry Milkshake",
+    "artist": "Mister Decaf/soave lofi",
+    "duration": 171,
+    "cover": "https://r2.ch3n.cc/songs/Strawberry%20Milkshake.png",
+    "url": "https://r2.ch3n.cc/songs/Strawberry%20Milkshake.mp3"
+  },
+  {
+    "song": "sugar free",
+    "artist": "SPUDB/George Karayiannis/soave lofi",
+    "duration": 139,
+    "cover": "https://r2.ch3n.cc/songs/sugar%20free.png",
+    "url": "https://r2.ch3n.cc/songs/sugar%20free.mp3"
+  },
+  {
+    "song": "summer rain",
+    "artist": "allen tales/Dave Miles/soave lofi",
+    "duration": 141,
+    "cover": "https://r2.ch3n.cc/songs/summer%20rain.png",
+    "url": "https://r2.ch3n.cc/songs/summer%20rain.mp3"
+  },
+  {
+    "song": "Summer",
+    "artist": "Sweet Oscar/soave lofi",
+    "duration": 117,
+    "cover": "https://r2.ch3n.cc/songs/Summer.png",
+    "url": "https://r2.ch3n.cc/songs/Summer.mp3"
+  },
+  {
+    "song": "sunday lullabye",
+    "artist": "Lush Lagoon/vlows/soave lofi",
+    "duration": 140,
+    "cover": "https://r2.ch3n.cc/songs/sunday%20lullabye.png",
+    "url": "https://r2.ch3n.cc/songs/sunday%20lullabye.mp3"
+  },
+  {
+    "song": "Sunroof",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 125,
+    "cover": "https://r2.ch3n.cc/songs/Sunroof.png",
+    "url": "https://r2.ch3n.cc/songs/Sunroof.mp3"
+  },
+  {
+    "song": "Synth Dreams",
+    "artist": "Maadrhino/soave lofi",
+    "duration": 124,
+    "cover": "https://r2.ch3n.cc/songs/Synth%20Dreams.png",
+    "url": "https://r2.ch3n.cc/songs/Synth%20Dreams.mp3"
+  },
+  {
+    "song": "Tell Me Why",
+    "artist": "lavender home/soave lofi",
+    "duration": 124,
+    "cover": "https://r2.ch3n.cc/songs/Tell%20Me%20Why.png",
+    "url": "https://r2.ch3n.cc/songs/Tell%20Me%20Why.mp3"
+  },
+  {
+    "song": "Text Me",
+    "artist": "Juju BB/soave lofi",
+    "duration": 112,
+    "cover": "https://r2.ch3n.cc/songs/Text%20Me.png",
+    "url": "https://r2.ch3n.cc/songs/Text%20Me.mp3"
+  },
+  {
+    "song": "THATS WHAT I WANT",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/THATS%20WHAT%20I%20WANT.png",
+    "url": "https://r2.ch3n.cc/songs/THATS%20WHAT%20I%20WANT.mp3"
+  },
+  {
+    "song": "The Chillum",
+    "artist": "Lil Gromit/soave lofi",
+    "duration": 149,
+    "cover": "https://r2.ch3n.cc/songs/The%20Chillum.png",
+    "url": "https://r2.ch3n.cc/songs/The%20Chillum.mp3"
+  },
+  {
+    "song": "The Comeback",
+    "artist": "insomnia/soave lofi",
+    "duration": 122,
+    "cover": "https://r2.ch3n.cc/songs/The%20Comeback.png",
+    "url": "https://r2.ch3n.cc/songs/The%20Comeback.mp3"
+  },
+  {
+    "song": "The Pool",
+    "artist": "FADR/soave lofi",
+    "duration": 101,
+    "cover": "https://r2.ch3n.cc/songs/The%20Pool.png",
+    "url": "https://r2.ch3n.cc/songs/The%20Pool.mp3"
+  },
+  {
+    "song": "This Is The Life",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/This%20Is%20The%20Life.png",
+    "url": "https://r2.ch3n.cc/songs/This%20Is%20The%20Life.mp3"
+  },
+  {
+    "song": "Thunder Bay",
+    "artist": "Lofries/RejSende/soave lofi",
+    "duration": 127,
+    "cover": "https://r2.ch3n.cc/songs/Thunder%20Bay.png",
+    "url": "https://r2.ch3n.cc/songs/Thunder%20Bay.mp3"
+  },
+  {
+    "song": "Time I Spent On You",
+    "artist": "Mg./soave lofi",
+    "duration": 101,
+    "cover": "https://r2.ch3n.cc/songs/Time%20I%20Spent%20On%20You.png",
+    "url": "https://r2.ch3n.cc/songs/Time%20I%20Spent%20On%20You.mp3"
+  },
+  {
+    "song": "Time is All you have",
+    "artist": "Mike Beating/soave lofi",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Time%20is%20All%20you%20have.png",
+    "url": "https://r2.ch3n.cc/songs/Time%20is%20All%20you%20have.mp3"
+  },
+  {
+    "song": "Treat You Better",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 120,
+    "cover": "https://r2.ch3n.cc/songs/Treat%20You%20Better.png",
+    "url": "https://r2.ch3n.cc/songs/Treat%20You%20Better.mp3"
+  },
+  {
+    "song": "Unforgivable",
+    "artist": "plutones",
+    "duration": 148,
+    "cover": "https://r2.ch3n.cc/songs/Unforgivable.png",
+    "url": "https://r2.ch3n.cc/songs/Unforgivable.mp3"
+  },
+  {
+    "song": "Unholy",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 112,
+    "cover": "https://r2.ch3n.cc/songs/Unholy.png",
+    "url": "https://r2.ch3n.cc/songs/Unholy.mp3"
+  },
+  {
+    "song": "Unwind At The Cafe",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 131,
+    "cover": "https://r2.ch3n.cc/songs/Unwind%20At%20The%20Cafe.png",
+    "url": "https://r2.ch3n.cc/songs/Unwind%20At%20The%20Cafe.mp3"
+  },
+  {
+    "song": "Veldenn",
+    "artist": "Lofries/soave lofi",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/Veldenn.png",
+    "url": "https://r2.ch3n.cc/songs/Veldenn.mp3"
+  },
+  {
+    "song": "Waiting All Night",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 117,
+    "cover": "https://r2.ch3n.cc/songs/Waiting%20All%20Night.png",
+    "url": "https://r2.ch3n.cc/songs/Waiting%20All%20Night.mp3"
+  },
+  {
+    "song": "We Don't Talk Anymore - Instrumental Version",
+    "artist": "suroboi/Chill Jam/soave lofi",
+    "duration": 170,
+    "cover": "https://r2.ch3n.cc/songs/We%20Don%27t%20Talk%20Anymore%20-%20Instrumental%20Version.png",
+    "url": "https://r2.ch3n.cc/songs/We%20Don%27t%20Talk%20Anymore%20-%20Instrumental%20Version.mp3"
+  },
+  {
+    "song": "Whispers of Cathay",
+    "artist": "Parco Molo/soave lofi",
+    "duration": 134,
+    "cover": "https://r2.ch3n.cc/songs/Whispers%20of%20Cathay.png",
+    "url": "https://r2.ch3n.cc/songs/Whispers%20of%20Cathay.mp3"
+  },
+  {
+    "song": "White Towels",
+    "artist": "Kewlie",
+    "duration": 133,
+    "cover": "https://r2.ch3n.cc/songs/White%20Towels.png",
+    "url": "https://r2.ch3n.cc/songs/White%20Towels.mp3"
+  },
+  {
+    "song": "Winchesterr",
+    "artist": "Lofries/soave lofi",
+    "duration": 146,
+    "cover": "https://r2.ch3n.cc/songs/Winchesterr.png",
+    "url": "https://r2.ch3n.cc/songs/Winchesterr.mp3"
+  },
+  {
+    "song": "Woman",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 126,
+    "cover": "https://r2.ch3n.cc/songs/Woman.png",
+    "url": "https://r2.ch3n.cc/songs/Woman.mp3"
+  },
+  {
+    "song": "yesterday",
+    "artist": "vlows/lumberjack",
+    "duration": 128,
+    "cover": "https://r2.ch3n.cc/songs/yesterday.png",
+    "url": "https://r2.ch3n.cc/songs/yesterday.mp3"
+  },
+  {
+    "song": "You're Beautiful",
+    "artist": "Peaceful Melody/soave lofi",
+    "duration": 160,
+    "cover": "https://r2.ch3n.cc/songs/You%27re%20Beautiful.png",
+    "url": "https://r2.ch3n.cc/songs/You%27re%20Beautiful.mp3"
+  },
+  {
+    "song": "Your Picture On My Wall",
+    "artist": "Kewlie/soave lofi",
+    "duration": 142,
+    "cover": "https://r2.ch3n.cc/songs/Your%20Picture%20On%20My%20Wall.png",
+    "url": "https://r2.ch3n.cc/songs/Your%20Picture%20On%20My%20Wall.mp3"
   }
 ]

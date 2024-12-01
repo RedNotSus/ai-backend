@@ -10,11 +10,9 @@ let artist = "";
 let cover = "";
 let url = "";
 let duration = 0;
-let viewers = 0;
 
 let currentposition = 0;
-
-console.log(playlist.length);
+const viewers = new Set();
 
 function nextSong() {
   if (currentposition < playlist.length - 1) {
@@ -54,9 +52,20 @@ router.get("/", (req, res) => {
     url: url,
     duration: duration,
     timestamp: timestamp,
-    viewers: viewers,
+    viewers: viewers.size,
   });
-  console.log(song, artist, cover, url, duration, timestamp, viewers);
+  console.log(song, artist, cover, url, duration, timestamp, viewers.size);
+});
+
+router.post("/heartbeat", (req, res) => {
+  const id = req.body.id;
+  viewers.add(id);
+
+  setTimeout(() => {
+    viewers.delete(id);
+  }, 30000);
+
+  res.json({ status: "ok" });
 });
 
 export default router;

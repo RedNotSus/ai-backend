@@ -59,6 +59,12 @@ router.get("/", (req, res) => {
 
 router.post("/heartbeat", (req, res) => {
   const id = req.body.id;
+
+  if (!id) {
+    return res.status(400).json({
+      error: "Please provide an id in the request body",
+    });
+  }
   viewers.add(id);
 
   setTimeout(() => {

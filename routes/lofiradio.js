@@ -54,7 +54,6 @@ router.get("/", (req, res) => {
     timestamp: timestamp,
     viewers: viewers.size,
   });
-  console.log(song, artist, cover, url, duration, timestamp, viewers.size);
 });
 
 function cleanupViewers() {

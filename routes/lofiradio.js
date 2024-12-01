@@ -12,7 +12,7 @@ let url = "";
 let duration = 0;
 
 let currentposition = 0;
-const viewers = new Set();
+const viewers = new Map();
 
 function nextSong() {
   if (currentposition < playlist.length - 1) {
@@ -57,6 +57,15 @@ router.get("/", (req, res) => {
   console.log(song, artist, cover, url, duration, timestamp, viewers.size);
 });
 
+function cleanupViewers() {
+  const now = Date.now();
+  for (const [id, lastHeartbeat] of viewers.entries()) {
+    if (now - lastHeartbeat > 30000) {
+      viewers.delete(id);
+    }
+  }
+}
+
 router.post("/heartbeat", (req, res) => {
   const id = req.body.id;
 
@@ -65,13 +74,10 @@ router.post("/heartbeat", (req, res) => {
       error: "Please provide an id in the request body",
     });
   }
-  viewers.add(id);
+  viewers.set(id, Date.now());
 
-  setTimeout(() => {
-    viewers.delete(id);
-  }, 30000);
-
-  res.json({ status: "ok" });
+  res.json({ status: "ok", viewers: viewers.size });
 });
 
+setInterval(cleanupViewers, 5000);
 export default router;

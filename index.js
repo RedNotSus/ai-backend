@@ -5,6 +5,7 @@ import paper from "./routes/whatbeatspaper.js";
 import lofi from "./routes/lofiradio.js";
 import base from "./routes/base.js";
 import dotenv from "dotenv";
+import shorten from "./routes/shorten.js";
 dotenv.config();
 
 const app = express();
@@ -21,6 +22,7 @@ app.get("/", (req, res) => {
 app.use("/whatbeatspaper/compare", paper);
 app.use("/currentsong", lofi);
 app.use("/api", base);
+app.use("/shorten", shorten);
 
 app.listen(port, () => {
   console.log(

@@ -4,6 +4,7 @@ import cors from "cors";
 import paper from "./routes/whatbeatspaper.js";
 import lofi from "./routes/lofiradio.js";
 import base from "./routes/base.js";
+import discord from "./routes/discord.js";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -21,6 +22,7 @@ app.get("/", (req, res) => {
 app.use("/whatbeatspaper/compare", paper);
 app.use("/currentsong", lofi);
 app.use("/", base);
+app.use("/discord", discord);
 
 app.listen(port, () => {
   console.log(

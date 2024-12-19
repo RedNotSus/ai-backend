@@ -17,6 +17,9 @@ const router = express.Router();
 router.use(express.json());
 
 router.post("/", async (req, res) => {
+  if (!req.body.message) {
+    return res.status(400).json({ error: "Message is required" });
+  }
   const userId = "735641273477890178";
   const user = await client.users.fetch(userId);
   if (user) {

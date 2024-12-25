@@ -78,5 +78,18 @@ router.post("/heartbeat", (req, res) => {
   res.json({ status: "ok", viewers: viewers.size });
 });
 
+router.get("/nextsong", (req, res) => {
+  let next = currentposition + 1;
+  if (next >= playlist.length) {
+    next = 0;
+  }
+  res.json({
+    song: playlist[next].song,
+    artist: playlist[next].artist,
+    cover: playlist[next].cover,
+    url: playlist[next].url,
+    duration: playlist[next].duration,
+  });
+});
 setInterval(cleanupViewers, 5000);
 export default router;

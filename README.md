@@ -2,6 +2,9 @@
 
 backend for my ai services made for high seas
 
+# DOCUMENTATION
+https://ch3n.apidocumentation.com/
+
 ## Installation
 
 - Clone the repo

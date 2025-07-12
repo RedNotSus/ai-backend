@@ -36,6 +36,9 @@ router.post("/", async (req, res) => {
       error: "Please provide both alias and url in the request body",
     });
   }
+  if (url.length > 255) {
+    url = url.slice(0, 255);
+  }
   const existing = await ShortUrl.findOne({
     where: {
       alias,

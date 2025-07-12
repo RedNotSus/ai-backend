@@ -72,22 +72,34 @@ router.get("/:user", async (req, res) => {
 });
 
 setInterval(async () => {
-  const response = await axios.get("https://api.ch3n.cc/donut/use55gms_com");
-  if (
-    (!response.data.online && down === false) ||
-    (response.data.location !== "Limbos" && down === false)
-  ) {
-    const time = Math.floor(Date.now() / 1000);
-    axios.post("https://api.ch3n.cc/discord", {
-      message: `:warning:  **Issue Detected with MCC** \n Down as of: <t:${time}:R>`,
-    });
-    down = true;
-  } else if (response.data.online && down === true) {
-    axios.post("https://api.ch3n.cc/discord", {
-      message: `:white_check_mark: **MCC is back online**`,
-    });
-    down = false;
+  try {
+    console.log("Checking MCC status...");
+    const response = await axios.get("https://api.ch3n.cc/donut/use55gms_com");
+
+    if (
+      (!response.data.online && down === false) ||
+      (response.data.location !== "Limbos" && down === false)
+    ) {
+      const time = Math.floor(Date.now() / 1000);
+      await axios.post("https://api.ch3n.cc/discord", {
+        message: `:warning:  **Issue Detected with MCC** \n Down as of: <t:${time}:R>`,
+      });
+      down = true;
+      console.log("MCC marked as down");
+    } else if (
+      response.data.online &&
+      down === true &&
+      response.data.location === "Limbos"
+    ) {
+      await axios.post("https://api.ch3n.cc/discord", {
+        message: `:white_check_mark: **MCC is back online**`,
+      });
+      down = false;
+      console.log("MCC marked as back online");
+    }
+  } catch (error) {
+    console.error("Error in MCC status check:", error);
   }
-}, 600000);
+}, 30000);
 
 export default router;

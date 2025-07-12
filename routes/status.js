@@ -70,8 +70,8 @@ router.get("/:user", async (req, res) => {
 setInterval(async () => {
   const response = await axios.get("https://api.ch3n.cc/donut/use55gms_com");
   if (
-    (!response.online && down === false) ||
-    (response.location !== "Limbos" && down === false)
+    (!response.data.online && down === false) ||
+    (response.data.location !== "Limbos" && down === false)
   ) {
     const time = Math.floor(Date.now() / 1000);
     axios.post("https://api.ch3n.cc/discord", {
@@ -84,6 +84,6 @@ setInterval(async () => {
     });
     down = false;
   }
-}, 5000);
+}, 600000);
 
 export default router;

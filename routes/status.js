@@ -75,7 +75,6 @@ setInterval(async () => {
   try {
     console.log("Checking MCC status...");
     const response = await axios.get("https://api.ch3n.cc/donut/use55gms_com");
-
     if (
       (!response.data.online && down === false) ||
       (response.data.location !== "Limbos" && down === false)

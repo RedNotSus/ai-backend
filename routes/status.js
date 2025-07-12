@@ -84,7 +84,6 @@ setInterval(async () => {
         message: `:warning:  **Issue Detected with MCC** \n Down as of: <t:${time}:R>`,
       });
       down = true;
-      console.log("MCC marked as down");
     } else if (
       response.data.online &&
       down === true &&
@@ -94,11 +93,10 @@ setInterval(async () => {
         message: `:white_check_mark: **MCC is back online**`,
       });
       down = false;
-      console.log("MCC marked as back online");
     }
   } catch (error) {
     console.error("Error in MCC status check:", error);
   }
-}, 30000);
+}, 60000);
 
 export default router;

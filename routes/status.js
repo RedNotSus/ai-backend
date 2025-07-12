@@ -63,7 +63,11 @@ router.get("/:user", async (req, res) => {
     });
   } catch (error) {
     console.error("Error fetching user status:", error);
-    return res.status(500).json({ error: "Internal Server Error" });
+    return res.status(500).json({
+      error: "Error handling request",
+      message:
+        "Could not handle your request. This may be because the specified user/page/item does not exist.",
+    });
   }
 });
 

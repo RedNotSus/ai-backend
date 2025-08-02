@@ -26,6 +26,10 @@ app.use("/", base);
 app.use("/discord", discord);
 app.use("/donut", donut);
 
+app.get("/api/links", (req, res) => {
+  res.status(200).send("OK");
+});
+
 app.listen(port, () => {
   console.log(
     chalk.green.bold("INFO | "),

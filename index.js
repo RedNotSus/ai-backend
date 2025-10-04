@@ -6,6 +6,7 @@ import lofi from "./routes/lofiradio.js";
 import base from "./routes/base.js";
 import discord from "./routes/discord.js";
 import donut from "./routes/status.js";
+import spaceship from "./routes/spaceship.js";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -25,6 +26,7 @@ app.use("/currentsong", lofi);
 app.use("/", base);
 app.use("/discord", discord);
 app.use("/donut", donut);
+app.use("/spaceship", spaceship);
 
 app.get("/api/links", (req, res) => {
   res.status(200).send("OK");

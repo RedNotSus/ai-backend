@@ -12,9 +12,12 @@ function generatePassword() {
 
   const passwordLength = 10;
   let chars = [];
+  chars.push(lowercase[Math.floor(Math.random() * lowercase.length)]);
+  chars.push(uppercase[Math.floor(Math.random() * uppercase.length)]);
+  chars.push(numbers[Math.floor(Math.random() * numbers.length)]);
   chars.push(special[Math.floor(Math.random() * special.length)]);
 
-  for (let i = 1; i < passwordLength; i++) {
+  for (let i = chars.length; i < passwordLength; i++) {
     const randomIndex = Math.floor(Math.random() * allChars.length);
     chars.push(allChars[randomIndex]);
   }
@@ -118,6 +121,24 @@ router.post("/search", async (req, res) => {
     email: account.email,
     url: account.url,
   });
+});
+
+router.delete("/", async (req, res) => {
+  const { url } = req.body;
+  if (!url) {
+    return res.status(400).json({ error: "Missing url in request body" });
+  }
+  try {
+    const deleted = await Spaceship.destroy({ where: { url } });
+    if (!deleted) {
+      return res.status(404).json({ error: "No account found for this URL" });
+    }
+    return res.status(200).json({ message: "Account deleted", url });
+  } catch (err) {
+    return res
+      .status(500)
+      .json({ error: "Database error", details: err.message });
+  }
 });
 
 export default router;

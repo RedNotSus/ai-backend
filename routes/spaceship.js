@@ -80,6 +80,16 @@ router.post("/new", async (req, res) => {
       error: "Missing Headers",
     });
   }
+  Spaceship.findOne({
+    where: {
+      url,
+    },
+  });
+  if (account) {
+    return res.status(409).json({
+      error: "Account for this URL already exists",
+    });
+  }
   const username = `55gms` + Math.floor(Math.random() * 10000);
   const password = generatePassword();
   const email = `${username}@ch3n.cc`;
@@ -138,6 +148,38 @@ router.delete("/", async (req, res) => {
     return res
       .status(500)
       .json({ error: "Database error", details: err.message });
+  }
+});
+
+router.post("/manual", async (req, res) => {
+  const { username, password, email, url } = req.body;
+  if (!username || !password || !email || !url) {
+    return res.status(400).json({
+      error: "Missing fields in request body",
+    });
+  }
+  try {
+    const [account, created] = await Spaceship.findOrCreate({
+      where: { url },
+      defaults: { username, password, email, url },
+    });
+    if (!created) {
+      return res.status(409).json({
+        error: "Account for this URL already exists",
+      });
+    }
+    return res.status(201).json({
+      message: "Spaceship account saved",
+      username,
+      password,
+      email,
+      url,
+    });
+  } catch (err) {
+    return res.status(500).json({
+      error: "Database error",
+      details: err.message,
+    });
   }
 });
 

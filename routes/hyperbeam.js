@@ -18,40 +18,6 @@ router.get("/create", async (req, res) => {
         adblock: true,
         search_engine: "google",
         dark: true,
-        profile: true,
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${process.env.HYPERBEAM}`,
-          "Content-Type": "application/json",
-        },
-      }
-    )
-    .then((response) => {
-      res.json({
-        room: response.data.session_id,
-        url: response.data.embed_url,
-      });
-    })
-    .catch((error) => {
-      console.error("Error creating Hyperbeam session:", error);
-      res.status(500).json({
-        error: "An error occurred while creating the Hyperbeam session.",
-      });
-    });
-});
-
-router.get("/create/:profile", async (req, res) => {
-  const profile = req.params.profile;
-  axios
-    .post(
-      "https://engine.hyperbeam.com/v0/vm",
-      {
-        start_url: "https://google.com",
-        adblock: true,
-        search_engine: "google",
-        dark: true,
-        profile: profile,
       },
       {
         headers: {

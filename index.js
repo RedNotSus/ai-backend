@@ -7,6 +7,7 @@ import base from "./routes/base.js";
 import discord from "./routes/discord.js";
 import donut from "./routes/status.js";
 import spaceship from "./routes/spaceship.js";
+import hyperbeam from "./routes/hyperbeam.js";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -27,6 +28,7 @@ app.use("/", base);
 app.use("/discord", discord);
 app.use("/donut", donut);
 app.use("/spaceship", spaceship);
+app.use("/api/hyperbeam", hyperbeam);
 
 app.get("/api/links", (req, res) => {
   res.status(200).send("OK");
